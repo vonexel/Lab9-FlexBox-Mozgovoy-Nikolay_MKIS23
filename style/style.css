@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+  position: relative;
+}
+
+.main {
+  padding-top: 48px;
+}
+
+.inner {
+  display: flex;
+}
+
+.main-inner h3 {
+
+}
+
+.items-slider {
+  margin-top: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  text-align: right;
+  margin-top: 48px;
+}
+
+.header-wrapper {
+  justify-content: space-between;
+}
+
