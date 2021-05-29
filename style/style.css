@@ -167,3 +167,88 @@ h4 {
   text-align: right;
   margin-top: 48px;
 }
+.main .button {
+  text-align: right;
+  margin-top: 48px;
+}
+
+.bg {
+  z-index: 99;
+  left: 336px;
+  top: 142px;
+  pointer-events: none;
+  position: absolute;
+}
+
+.footer {
+  font-family: Jost, sans-serif;
+  font-size: 24px;
+  line-height: 35px;
+  padding: 40px;
+  margin-top: 48px;
+}
+
+.block {
+  border-radius: 61px;
+  margin-bottom: 48px;
+  padding: 0 36px;
+  display: flex;
+  color: white;
+}
+
+.block .text {
+  font-family: Jost, sans-serif;
+  font-size: 32px;
+  line-height: 46px;
+  text-align: right;
+  margin-top: 48px;
+}
+
+.block img {
+  margin-right: -63px;
+  margin-left: 30px;
+}
+
+.bg2 {
+  right: -160px;
+  bottom: -100px;
+  position: absolute;
+}
+
+.product-info {
+  padding-top: 48px;
+  padding-bottom: 40px;
+}
+
+.product-title {
+  margin-top: 48px;
+  margin-left: 48px;
+}
+
+.back-arrow {
+  padding: 36px 48px;
+}
+
+.bg3 {
+  left: 0px;
+  bottom: 90px;
+  position: absolute;
+}
+
+.red-text{
+  font-family: Jost, sans-serif;
+  font-size: 24px;
+  line-height: 35px;
+  text-align: right;
+  color: #9A1212;
+}
+.comp-text{
+  font-family: Jost, sans-serif;
+  font-size: 29px;
+  line-height: 42px;
+  text-align: right;
+}
+
+.inner-justify {
+  justify-content: space-between;
+}
